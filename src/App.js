@@ -405,7 +405,7 @@ export default function App() {
             <h2 style={{ margin: "0 0 10px", fontSize: 24, color: "#1E1B4B", fontWeight: 700 }}>
               Bem-vindo ao Atendimento Inteligente
             </h2>
-            <p style={{ margin: "0 0 8px", color: "#64748B", fontSize: 15, maxWidth: 480, margin: "0 auto 24px" }}>
+            <p style={{margin: "0 auto 24px", color: "#64748B", fontSize: 15, maxWidth: 480 }}>
               Selecione um dos agentes acima para começar. Cada agente possui conhecimento
               especializado extraído dos manuais oficiais da Embelleze.
             </p>
